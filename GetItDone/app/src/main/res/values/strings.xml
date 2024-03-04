@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get It Done</string>
+    <string name="an_image_icon_of_account_circle">An image icon of account circle</string>
+    <string name="new_task">New task</string>
+    <string name="add_details">Add details</string>
+    <string name="details_desc">details</string>
+    <string name="star_desc">star</string>
+</resources>

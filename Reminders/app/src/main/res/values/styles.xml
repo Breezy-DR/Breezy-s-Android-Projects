@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Icon">
+
+    </style>
+
+    <style name="Text">
+        <item name="android:fontFamily">
+            sans-serif-light
+        </item>
+
+    </style>
+
+    <style name="Text.Heading">
+
+    </style>
+
+    <style name="Text.Value">
+
+    </style>
+</resources>
