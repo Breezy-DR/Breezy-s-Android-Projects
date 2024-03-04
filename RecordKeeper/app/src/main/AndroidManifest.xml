@@ -24,7 +24,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.breezydr.recordkeeper.editrecord.EditRecordActivity"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity"
+            tools:ignore="Instantiatable" />
     </application>
 
 </manifest>
